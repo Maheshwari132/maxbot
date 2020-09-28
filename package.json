@@ -1,0 +1,14 @@
+{
+  "name": "npm_commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"release\": \"npm -v && node -v\", \"build\": \"npm run release &&  node index.js\""
+  },
+  "author": "maheshwari",
+  "license": "ISC",
+  "dependencies": {
+    "maxbot": "^1.0.0"
+  }
+}
